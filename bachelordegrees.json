@@ -1,0 +1,209 @@
+[
+    {
+        "department": "college of arts & sciences",
+        "courses": [
+            {
+                "title": "bachelor of arts in communication",
+                "code": "ABCom",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of arts in english",
+                "code": "ABEng",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of sciences in mathematics",
+                "code": "BSM",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of sciences in psychology",
+                "code": "BSP",
+                "years": "3yrs+"
+            }
+        ]
+    },
+    {
+        "department": "college of business & accountancy",
+        "courses": [
+            {
+                "title": "associate in business administration",
+                "code": "ABA",
+                "years": "2yrs"
+            },
+            {
+                "title": "bachelor of science in accounting information system",
+                "code": "BSAIS",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in accountancy",
+                "code": "BSA",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in management accounting",
+                "code": "BSMA",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in real estate management",
+                "code": "BSREM",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in internal auditing",
+                "code": "BSIA",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in business administration",
+                "code": "BSBA",
+                "years": "3yrs+",
+                "majors": [
+                    "major in information management",
+                    "major in marketing management",
+                    "major in financial management",
+                    "major in operations management",
+                    "major in human resources management",
+                    "major in legal management",
+                    "major in business economics"
+                ]
+            }
+        ]
+    },
+    {
+        "department": "college of computer studies",
+        "courses": [
+            {
+                "title": "associate in computer technology",
+                "code": "ACT",
+                "years": "2yrs"
+            },
+            {
+                "title": "bachelor of science in computer science",
+                "code": "BSCS",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in information technology",
+                "code": "BSIT",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in information system",
+                "code": "BSIT",
+                "years": "3yrs+"
+            }
+        ]
+    },
+    {
+        "department": "college of teacher education",
+        "courses": [
+            {
+                "title": "bachelor in early childhood education",
+                "code": "BECEd",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor in elementary education",
+                "code": "BEEd",
+                "years": "3yrs+",
+                "majors": [ "major in early childhood education" ]
+            },
+            {
+                "title": "bachelor in secondary education",
+                "code": "BSEd",
+                "years": "3yrs+",
+                "majors": [
+                    "major in information management",
+                    "major in english",
+                    "major in filipino",
+                    "major in mathematics",
+                    "major in science"
+                ]
+            },
+            {
+                "title": "bachelor in technical vocational teacher education",
+                "code": "BTVTEd",
+                "years": "3yrs+",
+                "majors": [
+                    "major in home economics and livelihood education",
+                    "major in infomation communication technology"
+                ]
+            }
+        ]
+    },
+    {
+        "department": "college of maritime education & training",
+        "courses": [
+            {
+                "title": "bachelor of science in marine transportation",
+                "code": "BSMT",
+                "years": "3yrs+"
+            }
+        ]
+    },
+    {
+        "department": "college of criminology & administration",
+        "courses": [
+            {
+                "title": "bachelor of science in criminology",
+                "code": "BSC",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in industrial security management",
+                "code": "BSISM",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in public administration",
+                "code": "BSPA",
+                "years": "3yrs+"
+            }
+        ]
+    },
+    {
+        "department": "college of engineering",
+        "courses": [
+            {
+                "title": "bachelor of science in computer engineering",
+                "code": "BSCE",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in electronics engineering",
+                "code": "BSELE",
+                "years": "4yrs"
+            }
+
+        ]
+    },
+    {
+        "department": "college of health sciences",
+        "courses": [
+            {
+                "title": "bachelor of science in medical technology",
+                "code": "BSMedTech",
+                "years": "4yrs"
+            }
+        ]
+    },
+    {
+        "department": "international school of hospitality & tourism management",
+        "courses": [
+            {
+                "title": "bachelor of science in hospitality management",
+                "code": "BSHM",
+                "years": "3yrs+"
+            },
+            {
+                "title": "bachelor of science in tourism management",
+                "code": "BSTM",
+                "years": "3yrs+"
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "department": "hotel & restaurant services",
+        "courses": [
+            {
+                "title": "certificate in housekeeping NCII",
+                "code": "chk"
+            },
+            {
+                "title": "certificate in food & bevarage services NCII",
+                "code": "cfb"
+            },
+            {
+                "title": "certificate in food & bread & pastry production NCII",
+                "code": "cfb"
+            },
+            {
+                "title": "certificate in cookery NCII",
+                "code": "cc"
+            },
+            {
+                "title": "certificate in bartending NCII",
+                "code": "cb"
+            },
+            {
+                "title": "certificate in front officer services NCII",
+                "code": "cfo"
+            }
+        ]
+    },
+    {
+        "department": "tourism industry services",
+        "courses": [
+            {
+                "title": "certificate in events management services NCII",
+                "code": "cem"
+            },
+            {
+                "title": "certificate in tour guiding services NCII",
+                "code": "ctg"
+            }
+        ]
+    },
+    {
+        "department": "offices operations services",
+        "courses": [
+            {
+                "title": "certificate in bookkeeping NCII",
+                "code": "cbk"
+            },
+            {
+                "title": "certificate in microfinance technology NCII",
+                "code": "cmt"
+            }
+        ]
+    },
+    {
+        "department": "ict services",
+        "courses": [
+            {
+                "title": "certificate in computer servicing NCII",
+                "code": "ccs"
+            },
+            {
+                "title": "certificate in 3d animation NCII",
+                "code": "cda"
+            }
+        ]
+    },
+    {
+        "department": "health care services",
+        "courses": [
+            {
+                "title": "certificate in health care services NCII",
+                "code": "chc"
+            },
+            {
+                "title": "certificate in wellness NCII",
+                "code": "cws"
+            },
+            {
+                "title": "certificate in caregiving",
+                "code": "ccg"
+            },
+            {
+                "title": "certificate in phlebotomy technician",
+                "code": "cpt"
+            }
+        ]
+    }
+]

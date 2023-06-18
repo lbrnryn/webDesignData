@@ -1,0 +1,42 @@
+[
+    {
+        "track": "academic",
+        "strand": [
+            {
+                "title": "accountancy, business & management",
+                "code": "abm"
+            },
+            {
+                "title": "science, technology, engineering & mathematics",
+                "code": "stem"
+            },
+            {
+                "title": "humanities & social sciences",
+                "code": "humss"
+            },
+            {
+                "title": "general academic",
+                "code": "gas"
+            }
+        ]
+    },
+    {
+        "track": "technical-vocational livelihood",
+        "strand": [
+            {
+                "title": "information & communication technology",
+                "code": "ict",
+                "specializes": [
+                    "specializes in computer programming, digital arts & robotics technology"
+                ]
+            },
+            {
+                "title": "home economics",
+                "code": "he",
+                "specializes": [
+                    "specializes in hotel & restaurant"
+                ]
+            }
+        ]
+    }
+]

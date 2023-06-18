@@ -1,0 +1,265 @@
+[
+    {
+        "title": "academic tracks",
+        "strands": [
+            {
+                "code": "gas",
+                "grade11": {
+                    "discountedFee": 17498.25,
+                    "downPayment": 1350
+                },
+                "grade12": {
+                    "discountedFee": 18387,
+                    "downPayment": 1440
+                },
+                "shsVoucherGrantee": {
+                    "amount": 17500,
+                    "oneTimeFee": 350
+                },
+                "shsESC&NonESCGrantee": {
+                    "amount": 14500,
+                    "downPayment": 1350
+                }
+            },
+            {
+                "code": "abm",
+                "grade11": {
+                    "discountedFee": 17498.25,
+                    "downPayment": 1350
+                },
+                "grade12": {
+                    "discountedFee": 18387,
+                    "downPayment": 1440
+                },
+                "shsVoucherGrantee": {
+                    "amount": 17500,
+                    "oneTimeFee": 350
+                },
+                "shsESC&NonESCGrantee": {
+                    "amount": 14500,
+                    "downPayment": 1350
+                }
+            },
+            {
+                "code": "humss",
+                "grade11": {
+                    "discountedFee": 17498.25,
+                    "downPayment": 1350
+                },
+                "grade12": {
+                    "discountedFee": 18387,
+                    "downPayment": 1440
+                },
+                "shsVoucherGrantee": {
+                    "amount": 17500,
+                    "oneTimeFee": 350
+                },
+                "shsESC&NonESCGrantee": {
+                    "amount": 14500,
+                    "downPayment": 1350
+                }
+            },
+            {
+                "code": "stem",
+                "grade11": {
+                    "discountedFee": 19658.25,
+                    "downPayment": 1350
+                },
+                "grade12": {
+                    "discountedFee": 20547,
+                    "downPayment": 1440
+                },
+                "shsVoucherGrantee": {
+                    "amount": 17500,
+                    "oneTimeFee": 350
+                },
+                "shsESC&NonESCGrantee": {
+                    "amount": 14500,
+                    "downPayment": 1350
+                }
+            }
+        ]
+    },
+    {
+        "title": "technical vocational livelihood tracks",
+        "strands": [
+            {
+                "code": "ict",
+                "grade11": {
+                    "discountedFee": 18927,
+                    "downPayment": 1350
+                },
+                "grade12": {
+                    "discountedFee": 22358.25,
+                    "downPayment": 1440
+                },
+                "shsVoucherGrantee": {
+                    "amount": 17500,
+                    "oneTimeFee": 350
+                },
+                "shsESC&NonESCGrantee": {
+                    "amount": 14500,
+                    "downPayment": 1350
+                }
+            },
+            {
+                "code": "he",
+                "grade11": {
+                    "discountedFee": 18218.25,
+                    "downPayment": 1350
+                },
+                "grade12": {
+                    "discountedFee": 20547,
+                    "downPayment": 1440
+                },
+                "shsVoucherGrantee": {
+                    "amount": 17500,
+                    "oneTimeFee": 350
+                },
+                "shsESC&NonESCGrantee": {
+                    "amount": 14500,
+                    "downPayment": 1350
+                }
+            }
+        ]
+    },
+    {
+        "title": "bachelor programs",
+        "quotation": {
+            "units": 18,
+            "totalFee": 6305,
+            "discountedFee": 5743.50,
+            "installment": {
+                "downPayment": 1330,
+                "semiMonthly": 1253.70,
+                "lastPayment": 557.20,
+                "total": 6902
+            },
+            "note": "health diagnotistic fee (250), library ID (50) and test booklets (30) included"
+        }
+    },
+    {
+        "title": "bachelor programs with bridging subjects",
+        "quotation": {
+            "units": 21,
+            "totalFee": 6695,
+            "discountedFee": 6094.50,
+            "installment": {
+                "downPayment": 1330,
+                "semiMonthly": 1352,
+                "lastPayment": 600.90,
+                "total": 7338.90
+            },
+            "note": "health diagnotistic fee (250), library ID (50) and test booklets (30) included"
+        }
+    },
+    {
+        "title": "bscs / bsit programs",
+        "quotation": {
+            "units": 21,
+            "totalFee": 6695,
+            "discountedFee": 6094.50,
+            "installment": {
+                "downPayment": 1330,
+                "semiMonthly": 1352,
+                "lastPayment": 600.90,
+                "total": 7338.90
+            },
+            "note": "health diagnotistic fee (250), library ID (50) and test booklets (30) included"
+        }
+    },
+    {
+        "title": "dhwa / nursing assistant",
+        "quotation": {
+            "units": 15,
+            "totalFee": 4910,
+            "discountedFee": 4488,
+            "installment": {
+                "downPayment": 1330,
+                "semiMonthly": 902.15,
+                "lastPayment": 401,
+                "total": 5339.60
+            },
+            "note": "health diagnotistic fee (250), library ID (50) and test booklets (30) included"
+        }
+    },
+    {
+        "title": "b.s. medical technology",
+        "quotation": {
+            "units": 24,
+            "totalFee": 13260,
+            "discountedFee": 12013,
+            "installment": {
+                "downPayment": 5094.50,
+                "firstTofourthPayment": 2286.35,
+                "total": 14239.90
+            },
+            "note": "health diagnotistic fee (250), library ID (50) and test booklets (30) included"
+        }
+    },
+    {
+        "title": "mlsd programs / techvoc courses",
+        "quotation": {
+            "units": 12,
+            "totalFee": 4520,
+            "discountedFee": 4137,
+            "installment": {
+                "downPayment": 1330,
+                "semiMonthly": 803,
+                "lastPayment": 357.30,
+                "total": 4902.90
+            },
+            "note": "health diagnotistic fee (250), library ID (50) and test booklets (30) included"
+        }
+    },
+    {
+        "title": "certificate programs",
+        "courses": [
+            {
+                "code": "ctp",
+                "totalCash": 12260,
+                "creditCard": 12760,
+                "installment": {
+                    "downPayment": 2760,
+                    "balance": {
+                        "amount": 2500,
+                        "note": "5 payments"
+                    }
+                }
+            },
+            {
+                "code": "ccg",
+                "totalCash": 14180,
+                "creditCard": 14800,
+                "installment": {
+                    "downPayment": 4180,
+                    "balance": {
+                        "amount": 1400,
+                        "note": "8 payments"
+                    }
+                }
+            },
+            {
+                "code": "cpt",
+                "totalCash": 3000,
+                "creditCard": 3200
+            },
+            {
+                "code": "clp",
+                "totalCash": 5250,
+                "creditCard": 5460,
+                "installment": {
+                    "downPayment": 2000,
+                    "balance": {
+                        "amount": 1820,
+                        "note": "2 payments"
+                    }
+                },
+                "note": [
+                    "reservation fee: P500 (non-refundable/deductible on total fees)",
+                    "for ccg applicants, P2500 optional vaccination fee"
+                ]
+            }
+        ]
+    }
+]

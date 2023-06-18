@@ -1,0 +1,63 @@
+[
+    {
+        "name": "cainta",
+        "address": "v. v. soliven avenue II, brgy. san isidro, cainta, rizal",
+        "contactNos": [
+            "(02)79556284",
+            "(02)82492367",
+            "09478954228",
+            "09328724228",
+            "09178144228"
+        ]
+    },
+    {
+        "name": "antipolo",
+        "address": "icct colleges bldg., sumulong extension st. brgy. san roque, antipolo, rizal",
+        "contactNos": [
+            "(02)7954229",
+            "09171764228"
+        ]
+    },
+    {
+        "name": "binangonan",
+        "address": "icct colleges bldg., national rd., brgy. calumpang, binangonan, rizal",
+        "contactNos": [
+            "(02)77578939",
+            "09083986459"
+        ]
+    },
+    {
+        "name": "cogeo",
+        "address": "foresthills ave. cor. aspen st., eastland heights, bagong nayon II, antipolo, rizal",
+        "contactNos": [
+            "(02)83566305",
+            "(02)79804228",
+            "09171934228"
+        ]
+    },
+    {
+        "name": "san mateo",
+        "address": "icct colleges bldg., gen. luna rd cor. ressurreccion st., brgy. sta. ana, san mateo, rizal",
+        "contactNos": [
+            "(02)72125701",
+            "09171834228",
+            "09076839263"
+        ]
+    },
+    {
+        "name": "sumulong",
+        "address": "icct compound, sumulong hi-way, brgy. san isidro, cainta, rizal",
+        "contactNos": [
+            "(02)79664228",
+            "09171774228"
+        ]
+    },
+    {
+        "name": "taytay",
+        "address": "cabrera rd. cor. manila east rd. brgy. san juan, taytay, rizal",
+        "contactNos": [
+            "(02)79784228",
+            "09171884228"
+        ]
+    }
+]
