@@ -1,0 +1,49 @@
+{
+    "scholarships": [
+        {
+            "title": "president's list",
+            "requirements": [
+                "letter of endorsements",
+                "application letter",
+                "certificate of grades",
+                "certificate of good moral",
+                "grade slip",
+                "registration form and official receipt of downpayment",
+                "registration form previous"
+            ]
+        },
+        {
+            "title": "ways program",
+            "requirements": [
+                "letter of endorsements",
+                "application letter",
+                "registration form and official receipt of downpayment",
+                "photocopy of birth certificate",
+                "certificate of employment",
+                "company id / sss id / gsis id"
+            ]
+        },
+        {
+            "title": "siblings discount",
+            "requirements": [
+                "letter of endorsements",
+                "application letter",
+                "registration form latest and official receipt of downpayment",
+                "photocopy of birth certificate",
+                "marriage certificate of parents"
+            ]
+        },
+        {
+            "title": "government employee discount",
+            "requirements": [
+                "letter of endorsements",
+                "application letter",
+                "registration form latest and official receipt of downpayment",
+                "photocopy of birth certificate",
+                "marriage certificate of parents",
+                "certificate of employment",
+                "company id / sss id / gsis id"
+            ]
+        }
+    ]
+}

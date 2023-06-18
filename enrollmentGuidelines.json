@@ -1,0 +1,41 @@
+{
+    "title": "enrollment procedure for new students",
+    "steps": [
+        {
+            "description": "fill-up college entrance exam application form",
+            "instructions": [
+                "pay 20 pesos at accounting window 1",
+                "proceed to testing room for examination",
+                "after the exam, wait for the results"
+            ]
+        },
+        {
+            "description": "fill-up clearance form then proceed to icct clinic for physical checkup"
+        },
+        {
+            "description": "submit clearance form along with the following documents",
+            "instructions": [
+                "original copy of highschool card",
+                "original copy of good moral certificate",
+                "2 photocopies of diploma",
+                "2 photocopies of nso birth certificate",
+                "4 2x2 colored pictures"
+            ],
+            "note": "incomplete document is accepted / honored"
+        },
+        {
+            "description": "proceed to registrar window 1 and get tentative schedule/subjects"
+        },
+        {
+            "description": "proceed to course adviser (degree/non-degree) at the gym for checking of schedule and subjects. (bring tentative form & grade slip)"
+        },
+        {
+            "description": "then proceed to the following offices",
+            "instructions": [
+                "library for schoold id",
+                "guidance office for orientation schedule",
+                "drug testing center"
+            ]
+        }
+    ]
+}

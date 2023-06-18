@@ -1,0 +1,57 @@
+{
+    "roles": [
+        {
+            "freshmen": [
+                "deped als rating certificate (cor)",
+                "certificate of completion from als school / center",
+                "2 photocopies of learner's permanent record (as-5)"
+            ]
+        },
+        {
+            "transferees": [
+                "cerfication of grades / transcript of records",
+                "certificate of good moral character",
+                "honorable dismissal",
+                "2 photocopies of nso birth certificate",
+                "4 2x2 colored pictures"
+            ]
+        },
+        {
+            "secondCoursers": [
+                "2 photocopies of transcript of records",
+                "2 photocopies of diploma",
+                "2 photocopies of nso birth certificate",
+                "2 photocopies of marriage license (if married)",
+                "4 2x2 colored pictures"
+            ]
+        },
+        {
+            "foreignStudents": [
+                "original scholastic record or permanent record",
+                "certificate of good moral character",
+                "3 photocopies of passport",
+                "3 photocopies of student visa",
+                "3 photocopies of police clearance or nbi clearance",
+                "3 photocopies of quarantine medical clearance by the national quarantine office",
+                "4 2x2 colored pictures"
+            ]
+        },
+        {
+            "seniorHigh": [
+                "jhs report card (f138b) (original and 2 photocopies)",
+                "national career assessment exam result (optional)",
+                "certificate of good moral character (original and 2 photocopies)",
+                "2 photocopies nso/psa birth certificate",
+                "4 2x2 colored pictures",
+                "shs eligibility certificate / certificate of jhs completion"
+            ]
+        },
+        {
+            "alsPassers": [
+                "deped als rating certificate (cor)",
+                "certificate of completion from als school / center",
+                "2 photocopies of learner's permanent record (as-5)"
+            ]
+        }
+    ]
+}
